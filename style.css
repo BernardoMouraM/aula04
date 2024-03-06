@@ -1,0 +1,29 @@
+body {
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+body {
+    
+    background-color: #400fb1d7;
+    text-align: center;
+    justify-content: center;
+}
+div{
+    
+}
+h1 {
+    background: #6a59928c;
+    border-radius: 8px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    margin: 10px;
+    padding: 10px;
+}
+p{
+    background-color: aqua;
+    border-radius: 30px;
+    
+}
